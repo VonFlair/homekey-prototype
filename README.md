@@ -1,3 +1,8 @@
+# HomeKey Prototype
+
+**Developer:** Jiayu Feng
+
+A Next.js prototype for a real-estate workflow interface, with separate buyer and seller journeys, timeline-based process visualization, and supporting frontend/backend integration points.
 
 ## File Structure
 ````
